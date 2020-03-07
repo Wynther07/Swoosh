@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    google hex opacity level first 2 of hex of an 8 long hex is opacity-->
+    <solid android:color="#64000000" />
+    <stroke android:color="@android:color/white"
+        android:width="2dp" />
+</shape>
